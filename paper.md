@@ -30,7 +30,7 @@ affiliations:
  - name: Independent Researcher, Country
    index: 3
 date: 21 Februay 2024
-bibliography: paper.bib
+#bibliography: paper.bib
 
 ---
 
